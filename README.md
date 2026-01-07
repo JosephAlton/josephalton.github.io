@@ -2,12 +2,12 @@
 
 ## Firefox bookmark transform frontend ./firefoxbookmarktransform/.
 
-<https://paradigmzero.github.io/firefoxbookmarktransform/index.html>
+<https://josephalton.github.io/firefoxbookmarktransform/index.html>
 
 Firefox Bookmark transform but as a webpage (HTML, JavaScript)
 
 Based on the functionality of the following npm package, it is designed to do the same, just with a web interface:
-<https://github.com/ParadigmZero/FirefoxBookmarkTagTransform>
+<https://github.com/JosephAlton/FirefoxBookmarkTagTransform>
 
 ## Dummy pages used for webpage word counter ./webpagewordcounter/.
 
